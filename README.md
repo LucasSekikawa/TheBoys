@@ -48,13 +48,12 @@ The project is modularized into several components and Abstract Data Types (ADTs
 The project must be compiled using the provided `makefile`, which includes the mandatory flags `-Wall -Werror -Wextra -std=c99 -g`.
 
 To compile the project:
-```bash
-make
+`make`
 
 To run the simulation:
-./theboys
+`./theboys`
 
 ## Results and Statistics
-* `Hero Statistics`: Final status (alive or dead) , experience points , and final skill sets.
-* `Base Statistics`: Maximum occupancy (capacity) , maximum queue size reached , and total missions completed.
-* `Global Data`: Total number of events processed , mission success rate , and overall hero mortality rate.
+* **Hero Statistics**: Final status (alive or dead) , experience points , and final skill sets.
+* **Base Statistics**: Maximum occupancy (capacity) , maximum queue size reached , and total missions completed.
+* **Global Data**: Total number of events processed , mission success rate , and overall hero mortality rate.
