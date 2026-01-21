@@ -1,6 +1,6 @@
 # The Boys - Discrete Event Simulation
 
-This project is a discrete event simulator (SED) developed for the **CI1001 Programming 1** course at **UFPR**.
+This project is a discrete event simulator developed for the **CI1001 Programming 1** course at **UFPR**.
 
 * **Student:** Lucas Mazurkievicz Sekikawa
 * **Professor:** Marcos Castilho
